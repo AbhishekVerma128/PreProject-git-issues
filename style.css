@@ -1,0 +1,10 @@
+.main{
+    text-align: center;
+}
+li{
+    list-style: none;
+    padding: 5px;
+}
+button{
+    margin-left: 20px;
+}
